@@ -1,2 +1,2 @@
-# gostack-gobarber-api
+# GoStack - GoBarber API
 Barber Shop API
